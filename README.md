@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ferrinheight aka christopher
 - 👀 I’m interested in ... computing - software and hardware, skateboarding, music
 - 🌱 I’m currently learning ... everything
-- 💞️ I’m looking to collaborate on ... taking over this bi...
+- 💞️ I’m looking to collaborate on ... taking control
 - 📫 How to reach me ... ferrinheight@gmail.com
 
 <!---
